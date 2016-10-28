@@ -1,5 +1,4 @@
-# as3_websocket_stomp_client
-AS3 Websocket Stomp Client
+# AS3 Websocket Stomp Client
 
 ## Used libs:
 * [alexandrratush/as3-stomp](https://github.com/alexandrratush/as3-stomp/tree/5cdd411771d0138561769622bf2427bade57ca2e)
